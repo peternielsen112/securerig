@@ -1,7 +1,7 @@
 # SecureRig by Nielsen
 
-# Windows:
+### Windows:
 
-# Linux/Unix:
+### Linux/Unix:
 
-# MacOS:
+### MacOS:
